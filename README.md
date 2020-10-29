@@ -138,5 +138,3 @@
 1. 课程发布
 
 ![](https://my-images-bed.oss-cn-hangzhou.aliyuncs.com/images/20200308152116.png)
-
-![](https://my-images-bed.oss-cn-hangzhou.aliyuncs.com/images/20200308194652.png)
