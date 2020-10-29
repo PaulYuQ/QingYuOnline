@@ -91,8 +91,6 @@
 
    ![](https://my-images-bed.oss-cn-hangzhou.aliyuncs.com/images/20200307223454.png)
 
-![](https://my-images-bed.oss-cn-hangzhou.aliyuncs.com/images/20200307192713.png)
-
   页面发布流程图如下：  
 
 ```
@@ -135,6 +133,3 @@
 
 ![](https://my-images-bed.oss-cn-hangzhou.aliyuncs.com/images/20200308202527.png)
 
-1. 课程发布
-
-![](https://my-images-bed.oss-cn-hangzhou.aliyuncs.com/images/20200308152116.png)
